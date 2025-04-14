@@ -8,7 +8,7 @@ scipy==1.1.0
 
 
 
-## TIB:Cross-modal Emotion Clustering via Twin Information Bottleneck Method
+## A Twin Information Bottleneck Method for Cross-modal Clustering
 > **Authors:**
 Anonymous
 <!-- > -->
